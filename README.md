@@ -38,7 +38,7 @@
 
 
 ### Lets Login as the receiver and read the message.
-### NOTICE - If you read a message the messge will mark as read evev if you read all messages at once.
+### NOTICE - If you read a message the messge will mark as read even if you read all messages at once.
 
 - User 5 Login:
 
