@@ -25,6 +25,7 @@ class Message(db.Model):
 
     def json(self):
         return {
+            'message_id': self.id,
             'sender': self.sender,
             'receiver':self.receiver,
             'message':self.message,
